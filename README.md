@@ -1,1 +1,15 @@
 # AI-Chatbot-IlmBot-2025
+## Inspiration
+Our inspiration for IlmBot was the fact that many Muslims have never heard of these famous Muslim inventors, and are forgetting the legacy that their fellow brothers and sisters left behind. Our inspiration for ILMBoard was knowing that many Muslims are going into college, getting jobs without having connections or platforms they need. ILMboard will allow Muslims to share their projects, discover opportunities, and apply to jobs and scholarships.
+## What it does
+ILMBot allows users to take courses to learn about these Muslim inventors through an AI chatbot and quizzes. ILMboard allows students to find jobs, scholarships and programs that help turn their ideas into real innovations. But who will help them brainstorm these ideas? That’s where Ideabot comes in, this chatbot is your personal brainstorming partner, helping you come up with ideas, answers your questions and guides you, just like a mentor from the Golden Age of Islam.
+## How we built it
+We built IlmBot using Dorik, and ILMboard using Glide. We used the chatbot from Landbot, and made the quizzes through Google Forms.
+## Challenges we ran into
+During the project, we ran into a few challenges. One major difficulty was implementing AI-powered speech for our chatbot instead of just displaying text. We also wanted to replace the Google Form with a smarter, AI-based quiz that can interact better with users. Due to limited time, these features were not completed but are part of our future vision for ILMBot/ILMboard. Developing the app took significant time and effort, and despite many obstacles, we persisted and, Alhamdulillah, successfully completed the project as of now, but we will certainly add onto this so more muslims can learn, engage, and connect, Insha'Allah.
+## Accomplishments that we're proud of
+Building ILMBot/ILMboard, an interactive platform showcasing Muslim inventors and scholars, has been one of the most rewarding experiences. From the idea to the final completion, we are incredibly proud of the work that was put in to create this. From this app, one of our most favourite tools is the profile/login system. Another accomplishment is how one can add their projects/jobs/inventions and show it to the world, having that sense of connection. The Islamic LinkedIn coming to life, Alhamdulillah.
+## What we learned
+Throughout this project, we learned how to work as a team under pressure, solving problems that arose and building an app from an idea to launch. We were able to use and look into tools like figma, glide, dorik, and many others. Most importantly we learned, how technology can be used to uplift and connect the Muslim Community.
+## What's next for IlmBot
+We plan to expand ILMbot with AI-powered speech, smarter quizzes, and a more personalized learning experience. We’ll continue building ILMBoard to help young Muslims showcase their skills, find more opportunities, and connect with mentors. Our ultimate goal is to have a full platform where learning, innovation and Islamic legacy come together, Insha’Allah.
